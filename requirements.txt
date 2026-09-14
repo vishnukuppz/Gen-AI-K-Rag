@@ -1,0 +1,44 @@
+# langchain and langSmith dependencies
+langchain
+langsmith
+langchain-core
+langchain-openai
+langchain-huggingface
+langchain-experimental
+#Generating the chunk into smaller sentences for retreival
+langchain-text-splitters
+#Transforming the sentences into embeddings
+sentence-transformers
+# Loading environment (.env) variables
+python-dotenv
+
+#Neo4j
+langchain-neo4j
+
+#Hugging face libraries to run the model
+transformers
+torch
+accelerate
+
+#multi model support
+torchvision
+pillow
+
+#Vector storage DB
+faiss-cpu
+
+#PDF processing
+pypdf
+
+#Interactive UI
+streamlit
+
+#Automation web
+playwright
+
+#Safety & Guardrails
+nemoguardrails
+
+#Evaluation & Testing
+deepeval
+pytest
